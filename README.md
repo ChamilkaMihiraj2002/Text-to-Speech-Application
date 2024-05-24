@@ -14,5 +14,5 @@ Technologies Used
     Tkinter: Used for building the graphical user interface.
     pyttsx3: Python library for text to speech conversion.
     PIL (Pillow): Used for handling and displaying images within the application.
+    
 ![Screenshot 2024-05-24 152532](https://github.com/ChamilkaMihiraj2002/Text-to-Speech-Application/assets/120358764/cfdaf41e-f0c2-4662-b72c-6dea512a90ca)
-![Screenshot 2024-05-24 152633](https://github.com/ChamilkaMihiraj2002/Text-to-Speech-Application/assets/120358764/ee6eda45-1891-4864-96af-148725695466)
